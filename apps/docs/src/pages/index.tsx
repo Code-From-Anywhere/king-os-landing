@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <Layout>
       <div>
-        <main className="flex flex-1 w-full h-full justify-center items-center">
+        <main className="flex flex-1 w-full h-screen justify-center items-center">
           <h1>Be the King of your data</h1>
         </main>
       </div>
