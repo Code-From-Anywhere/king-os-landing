@@ -1,3 +1,3 @@
-# What's this?
+# About
 
-This are your docs. You can change them in `/docs`
+Coming soon... Stay tuned!

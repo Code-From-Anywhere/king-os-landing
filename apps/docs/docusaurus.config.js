@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Sensible",
-  tagline: "The Typescript Framework for Effective Teams",
-  url: "https://sensiblestack.com",
+  title: "King OS",
+  tagline: "Be the King of your data",
+  url: "https://king-os.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -51,14 +51,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/",
+            "https://github.com/Code-From-Anywhere/king-os/tree/main/docs/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/Code-From-Anywhere/sensible/tree/main/apps/web/",
+            "https://github.com/Code-From-Anywhere/king-os/tree/main/docs/",
         },
 
         theme: {
@@ -72,7 +72,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Your app",
+        title: "King OS",
         logo: {
           alt: "Logo",
           src: "img/icon.png",
@@ -86,7 +86,7 @@ const config = {
           },
 
           {
-            href: "https://github.com/Code-From-Anywhere/sensible",
+            href: "https://github.com/Code-From-Anywhere/king-os",
             label: "GitHub",
             position: "right",
           },
@@ -122,7 +122,7 @@ const config = {
               // },
               {
                 label: "GitHub",
-                href: "https://github.com/Code-From-Anywhere/sensible",
+                href: "https://github.com/Code-From-Anywhere/king-os",
               },
             ],
           },
